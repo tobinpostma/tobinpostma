@@ -1,3 +1,3 @@
 # tobinpostma
 
-Based on https://github.com/codebushi/gatsby-starter-dimension`
+Based on https://github.com/codebushi/gatsby-starter-dimension
