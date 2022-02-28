@@ -2,8 +2,11 @@
 @import 'libs/functions';
 @import 'libs/mixins';
 @import 'libs/skel';
-@import '../css/font-awesome.min.css';
-@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:300italic,600italic,300,600');
+@import '../css/all.css';
+@import '@fontsource/source-sans-pro/300.css';
+@import '@fontsource/source-sans-pro/300-italic.css';
+@import '@fontsource/source-sans-pro/600.css';
+@import '@fontsource/source-sans-pro/600-italic.css';
 
 /*
 	Dimension by HTML5 UP
