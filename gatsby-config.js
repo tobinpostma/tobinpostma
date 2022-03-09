@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: 'Tobin Postma',
+    title: 'tobinpostma',
     siteUrl: "https://www.tobinpostma.com",
     author: 'Tobin Postma',
-    description: 'Tobin Postma',
+    description: 'www.tobinpostma.com',
   },
   plugins: [
     'gatsby-plugin-react-helmet',

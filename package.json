@@ -1,14 +1,14 @@
 {
-  "name": "Tobin Postma",
-  "description": "Tobin Postma",
+  "name": "tobinpostma",
+  "description": "www.tobinpostma.com",
   "version": "1.0.0",
   "author": "Tobin Postma",
   "private": true,
   "dependencies": {
     "@fontsource/source-sans-pro": "latest",
     "@fortawesome/fontawesome-free": "latest",
-    "gatsby": "latest",
-    "gatsby-plugin-gatsby-cloud": "latest",
+    "gatsby": "^4.9.2",
+    "gatsby-plugin-gatsby-cloud": "^4.9.0",
     "gatsby-plugin-google-gtag": "latest",
     "gatsby-plugin-image": "latest",
     "gatsby-plugin-manifest": "latest",
