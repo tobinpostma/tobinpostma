@@ -26,8 +26,8 @@
     "sass": "latest"
   },
   "engines": {
-    "node": "lts",
-    "npm": "lts"
+    "node": ">='Latest LTS: Gallium'",
+    "npm": "latest"
   },
   "keywords": [
     "Tobin Postma"
