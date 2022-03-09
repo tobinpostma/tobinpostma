@@ -25,6 +25,10 @@
     "react-helmet": "latest",
     "sass": "latest"
   },
+  "engines": {
+    "node": "lts",
+    "npm": "lts"
+  },
   "keywords": [
     "Tobin Postma"
   ],
