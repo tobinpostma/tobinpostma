@@ -26,7 +26,7 @@
     "sass": "latest"
   },
   "engines": {
-    "node": ">='Latest LTS: Gallium'",
+    "node": ">=latest-gallium",
     "npm": "latest"
   },
   "keywords": [
