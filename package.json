@@ -7,8 +7,8 @@
   "dependencies": {
     "@fontsource/source-sans-pro": "latest",
     "@fortawesome/fontawesome-free": "latest",
-    "gatsby": "^4.9.2",
-    "gatsby-plugin-gatsby-cloud": "^4.9.0",
+    "gatsby": "latest",
+    "gatsby-plugin-gatsby-cloud": "latest",
     "gatsby-plugin-google-gtag": "latest",
     "gatsby-plugin-image": "latest",
     "gatsby-plugin-manifest": "latest",
@@ -20,10 +20,10 @@
     "gatsby-plugin-sitemap": "latest",
     "gatsby-source-filesystem": "latest",
     "gatsby-transformer-sharp": "latest",
-    "node-sass": "latest",
     "react": "latest",
     "react-dom": "latest",
-    "react-helmet": "latest"
+    "react-helmet": "latest",
+    "sass": "latest"
   },
   "keywords": [
     "Tobin Postma"
