@@ -119,25 +119,7 @@ class Main extends React.Component {
                 href="mailto:info@tobinpostma.com"
                 className="icon fa-solid fa-envelope"
               >
-                <span className="label">Twitter</span>
-              </a>
-            </li>
-            <li>
-              <a
-                href="https://twitter.com/tobinpostma"
-                className="icon fa-brands fa-twitter"
-              >
-                <span className="label">Twitter</span>
-              </a>
-            </li>
-            <li>
-              <a href="https://facebook.com/tobinpostma" className="icon fa-brands fa-facebook">
-                <span className="label">Facebook</span>
-              </a>
-            </li>
-            <li>
-              <a href="https://instagram.com/tobinpostma" className="icon fa-brands fa-instagram">
-                <span className="label">Instagram</span>
+                <span className="label">Email</span>
               </a>
             </li>
             <li>
