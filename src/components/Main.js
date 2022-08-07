@@ -75,7 +75,7 @@ class Main extends React.Component {
           </ul>
           <h3><a href="https://corporate.arcelormittal.com/" target="_blank" rel="noreferrer">ArcelorMittal</a> 2008-2013</h3>
           <h4>Head of Media Relations:</h4>
-          <ul className="alt">
+          <ul>
             <li>Acted as an official spokesperson for ArcelorMittal; responsible for leading media communications, including press releases, press trips and press conferences while managing a network of over 40 communicators tasked with protecting and promoting ArcelorMittal’s global brand</li>
             <li>Managed financial calendar disclosures, including quarterly earnings and AGMs, with the Investor Relations team</li>
             <li>Oversaw external and internal communications for ArcelorMittal Mining, as well as coordinating local communications with mine sites in Bosnia, Brazil, Canada, Kazakhstan, Liberia, Mexico and Russia to ensure corporate messages were aligned and best practices adhered to</li>
