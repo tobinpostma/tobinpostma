@@ -35,12 +35,12 @@ class Main extends React.Component {
           <p>“It’s never been done before”</p>
           <p>“We don’t know where to begin”</p>
           <p>“We don’t know what to do now”</p>
-          <p>These are the kind of problem statements that I am compelled to run towards; whether you need a running partner or a thought partner I will bring my energy and experience to assist you on your journey.</p>
-          <p>I am a solutions-driven, creative problem solver who brings joyful energy into everything I do – like a breath of fresh air, invigorating your organization.</p>
+          <p>These are the kind of problem statements that I am compelled to run towards; whether you need a running partner or a thought partner I will bring my energy and experience to assist you on your journey as you tackle our biggest intractable problems.</p>
+          <p>Am a solutions-driven, creative problem solver who brings joyful energy into everything I do – like a breath of fresh air, invigorating your organization. Just as a change of scenery can provide badly-needed perspective, I can help identify leverage points and new ways to approach points of friction.</p>
           <p>I thrive in emergent situations especially those characterized by unpredictability and a lack of control – providing a calm, steady and pragmatic hands-on approach.</p>
           <p>I can move seamlessly between the shop floor and the top floor and love to roll up my sleeves. I understand how to bridge bottom-up solutions with policy design.</p>
           <p>I am a locksmith, silobuster and a story teller.</p>
-          <p>I am a global explorer, adept at navigating organizations and challenges of all types and sizes and I am eager to join you on your journey towards impactful change.</p>
+          <p>I am a global explorer, adept at navigating organizations, personalities, and challenges of all types and sizes and I am eager to join you on your journey towards impactful change.</p>
           {close}
         </article>
 

@@ -9,7 +9,7 @@ const Header = props => (
     <div className="content">
       <div className="inner">
         <h1>Tobin Postma</h1>
-        <p>A senior-level executive with 15+ years of public policy, sustainability and strategic communications experience in government and the steel and mining industry who is in search of kindred spirits who are working across the world to solve complex problems, who believe in transforming – not just adapting – and who need some extra horse power in their corner to get unstuck and break through whatever obstacles they are facing.</p>
+        <p>A senior-level executive with 15+ years of public policy, sustainability and strategic communications experience in government and the steel and mining industry who is in search of kindred spirits who are working across the world to solve complex problems, who believe in transforming – not just adapting – and who need some extra horsepower in their corner to get unstuck and break through whatever obstacles they are facing.</p>
       </div>
     </div>
     <nav>
