@@ -64,7 +64,6 @@ class Main extends React.Component {
           <ul>
             <li>Provided cross-organizational leadership for the City’s efforts to manage street-level impacts of systemic social challenges, including poverty and the opioid crisis, as well as forming strategic partnerships tasked with implementing policies, pilots and strategies that addressed the root causes of these challenges</li>
             <li>Coordinated an interdepartmental operations group that worked to mitigate the downstream impacts of homelessness amongst Canada’s most marginalized and vulnerable population, including safely managing four illegal tent cities and numerous encampments across the city</li>
-            <li>Coordinated an interdepartmental operations group that worked to mitigate the downstream impacts of homelessness amongst Canada’s most marginalized and vulnerable population, including safely managing four illegal tent cities and numerous encampments across the city</li>
             <li>Ran a multi-million dollar community impact fund created through a partnership between three levels of government that supported solutions to economic, social and health and safety issues in Vancouver’s Downtown Eastside (DTES)</li>
           </ul>
           <h4>Strategic Issues Manager:</h4>
