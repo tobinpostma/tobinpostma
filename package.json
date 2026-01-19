@@ -37,11 +37,11 @@
     "@types/node": "^25.0.9",
     "@types/react": "^19",
     "@types/react-dom": "^19",
-    "eslint": "^latest",
+    "eslint": "latest",
     "eslint-config-next": "16.1.2",
     "eslint-config-prettier": "^10.1.8",
     "eslint-plugin-prettier": "^5.5.5",
-    "prettier": "^latest",
+    "prettier": "latest",
     "sharp": "^0.34.5",
     "typescript": "^5"
   },
