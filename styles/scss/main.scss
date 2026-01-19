@@ -1,0 +1,33 @@
+// Main SCSS - Entry point for all styles
+// Migrated to @use syntax for Sass 3.0 compatibility
+
+/*
+	Dimension by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+*/
+
+// Reset must come first so other styles can override it
+@use 'base/reset';
+
+// Base styles
+@use 'base/page';
+@use 'base/typography';
+
+// Component styles
+@use 'components/form';
+@use 'components/box';
+@use 'components/icon';
+@use 'components/image';
+@use 'components/list';
+@use 'components/table';
+@use 'components/button';
+
+// Layout styles
+@use 'layout/bg';
+@use 'layout/wrapper';
+@use 'layout/header';
+@use 'layout/main';
+@use 'layout/footer';
+
+// Note: Font and icon CSS imports moved to src/app/layout.tsx for proper bundling

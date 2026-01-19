@@ -1,0 +1,14 @@
+// Libs Index - @forward all modules for easy importing
+// Usage: @use '../libs' as *; (in component/layout/base files)
+
+// Forward all variables
+@forward 'vars';
+
+// Forward helper functions (_palette, _font, _size, _duration, _misc)
+@forward 'functions';
+
+// Forward mixins (icon, padding, svg-url, flexgrid, etc.)
+@forward 'mixins';
+
+// Forward skel utilities (breakpoint, vendor, skel-breakpoints, skel-layout, etc.)
+@forward 'skel';
